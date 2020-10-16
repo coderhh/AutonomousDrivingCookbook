@@ -294,3 +294,6 @@ __pycache__/
 # Runtime data from tutorials
 data*
 model*
+
+/data_raw
+/data_cooked
